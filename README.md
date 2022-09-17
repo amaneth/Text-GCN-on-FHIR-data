@@ -20,4 +20,4 @@ This project is about adapting the Text Graph Convolutional Network(Text-GCN) to
 
 [2] [Kipf & Welling, Semi-Supervised Classification with Graph Convolutional Networks, 2016](https://arxiv.org/abs/1609.02907)
 
-[2] [Liu, et al, Integration of NLP2FHIR Representation with Deep Learning Models for EHR Phenotyping: A Pilot Study on Obesity Datasets, 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8378603/)
+[3] [Liu, et al, Integration of NLP2FHIR Representation with Deep Learning Models for EHR Phenotyping: A Pilot Study on Obesity Datasets, 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8378603/)
